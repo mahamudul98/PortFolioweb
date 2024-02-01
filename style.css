@@ -1,0 +1,110 @@
+body{
+    margin: 0%;
+}
+
+h1{
+    font-size: 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.a{
+    color: orange;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.halfwidth{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+#topban{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.halfwidth img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.abutton{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(29, 228, 211), #0d7797 );
+    color:white;
+    padding: 10px 20px;
+    border-radius: 7px;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.midfix{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.midfix img{
+    width: 100%;
+}
+#midban{
+    margin-top: 4%;
+    padding-left: 3%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+.b{
+    
+    font-size: xx-large;
+}
+.midbanner{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.lastfix{
+    width: 40%;
+    float: left;
+    margin-left: 7%;
+    
+
+}
+.lastfix{
+    box-shadow:10px 10px 40px gray;
+    height: 50%;
+    padding: 5px;
+    border-radius: 10px;
+}
+.lastsec{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+#lastban{
+    border-left: 8px solid;
+    border-image: linear-gradient(90deg, rgb(95, 97, 4), rgb(153, 151, 12)  );
+    border-image-slice: 1;
+}
+#lastban2{
+    border-left: 8px solid;
+    border-image: linear-gradient(90deg, rgb(5, 99, 128), rgb(3, 53, 59)  );
+    border-image-slice: 1;
+}
+.lastfix h2{
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+}
+.lastfix h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: lightseagreen;
+}
+.fot{
+    text-align: center;
+}
+
